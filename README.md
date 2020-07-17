@@ -25,8 +25,8 @@ Once you have access to a shell prompt, clone/fork the ofi-alumni repository to 
 Note that your installation process will likely vary based upon the distribution you use
 1. Install [Node.js](https://nodejs.org/en/download/package-manager/)
 2. Install Yarn using your preferred package manager ([Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable))
-3. Install [MongoDB Community Drivers](https://docs.mongodb.com/manual/administration/install-on-linux/) (Note: If using the WSL, MongoDB says they don't have working drivers. They're also liars. The standard Linux installation works (I tested it))
-4. At this point, you can now follow the MacOS instructions starting from 3.
+3. Install [MongoDB Community Drivers](https://docs.mongodb.com/manual/administration/install-on-linux/) (Note: If using the WSL, MongoDB says they don't have working drivers. They're also [liars](https://dev.to/zenika/setup-mongodb-on-wsl-ubuntu-18-04-167). The standard Linux installation works (I tested it))
+4. At this point, you can now follow the MacOS instructions starting from 3, but when starting mongodb follow the documentations' steps instead of brew services start.
 
 #### Hopefully this helps!
 
