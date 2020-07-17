@@ -5,6 +5,7 @@ Note: While not required, I would recommend using VSCode when working on this ap
 My recommended plugins are:
 - Auto Close Tag
 - Babel JavaScript  
+
 If you're on windows it has an extension for connecting to the WSL filesystem, which is super handy.  
 Once you have access to a shell prompt, clone/fork the ofi-alumni repository to your own system.  
 
